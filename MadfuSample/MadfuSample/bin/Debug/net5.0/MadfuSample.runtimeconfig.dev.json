@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Imcrinox\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Imcrinox\\.nuget\\packages"
+    ]
+  }
+}
