@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DataProcessor\Model\ModelResolver\" />
+    <Folder Include="DataProcessor\Query\QueryResolver\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BNPL_ENV" Version="1.0.3.13" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+</Project>
